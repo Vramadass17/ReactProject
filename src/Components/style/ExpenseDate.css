@@ -1,0 +1,23 @@
+.expenseDate{
+    display: inline;
+    border:2px solid white;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    width: 10%;
+}
+
+.expenseMonth{
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
+.expenseYear{
+    text-align: center;
+}
+.expenseDay{
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+}
